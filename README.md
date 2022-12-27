@@ -16,6 +16,10 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [Vue 3 + Vite starter kit](https://github.com/StefanVDWeide/pocketbase-vue) and [tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3)
 * [Quasar starter kit](https://github.com/aaronblondeau/pocketbase_quasar_starter)
 
+## AlpineJS
+
+* [PocketBase client JS SDK + AlpineJS + Pico CSS](https://github.com/Mikepicker/doodoo) and [tutorial](https://medium.com/@Mikepicker/build-a-multi-user-todo-list-app-with-pocketbase-in-a-single-html-file-8734bfb882fd) 
+
 ## Dart/Flutter
 
 * [PocketBase Drift](https://github.com/rodydavis/pocketbase_drift) - a PocketBase client cached with Drift.
